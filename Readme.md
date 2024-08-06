@@ -1,0 +1,1 @@
+This project is analysis of a retail store using Excel.
